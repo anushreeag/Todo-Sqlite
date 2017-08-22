@@ -27,19 +27,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
 * [x] Added delete button to delete the Todo
 * [x] Added edit button to edit the Todo
 * [x] Due dates are shown in red colors
 * [x] Date picker in the edit screen will show calendar only from current date. Cannot navigate to old date
 * [x] Any new note will be created with current date and later user can edit the due date
+* [x] Title of the To-do is limited to 40 characters
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/cQZsDqz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/6Vl0RtD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
